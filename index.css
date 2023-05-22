@@ -1,0 +1,15 @@
+body{
+padding: 200px;
+background-image:url("https://img.freepik.com/premium-vector/liquid-marble-background-with-gold-splatter_23-2148704233.jpg?w=2000");
+}
+
+.font{
+    font-size: 60px;
+    font-family: fantasy;
+}
+
+label{
+    font-family: cursive;
+    font-size: 20px;
+}
+

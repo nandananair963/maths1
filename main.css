@@ -1,0 +1,12 @@
+.login{
+  height: 400px;
+  width: 25%;
+  background-color: powderblue;
+  border-radius: 10px;
+}
+
+.name{
+    padding-top: 20px;
+    font-family: 'Abril Fatface', cursive;
+}
+
